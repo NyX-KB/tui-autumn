@@ -1,0 +1,6 @@
+
+ddg=DuckDuckGo
+files=Solid Explorer
+x=clear
+rs=restart
+rf=refresh
